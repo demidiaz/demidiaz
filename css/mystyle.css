@@ -1,0 +1,15 @@
+.nav1 {
+
+	list-style: none;
+	text-align:center;
+}
+
+
+.navl {
+	display:inline-block;
+	padding:5px;
+	margin:10px;
+	color:black;
+	font-family: arial;
+
+}
