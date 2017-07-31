@@ -14,3 +14,15 @@
 
 }
 
+.head {
+	border:20px solid #FFB6C1;
+	margin-top:20px;
+}
+
+.nav1home {
+	display:inline-block;
+	margin-right:20px;
+	margin-top: 20px;
+	font-family: arial
+	font-weight:bolder;
+}
