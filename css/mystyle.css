@@ -14,10 +14,6 @@
 
 }
 
-.head {
-	border:20px solid #FFB6C1;
-	margin-top:20px;
-}
 
 .nav1home {
 	display:inline-block;
@@ -25,4 +21,6 @@
 	margin-top: 20px;
 	font-family: arial
 	font-weight:bolder;
+	
 }
+
